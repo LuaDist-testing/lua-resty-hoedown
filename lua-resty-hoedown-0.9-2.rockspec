@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-hoedown"
-version = "0.9-1"
+version = "0.9-2"
 -- LuaDist source
 source = {
-  tag = "0.9-1",
+  tag = "0.9-2",
   url = "git://github.com/LuaDist-testing/lua-resty-hoedown.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/bungle/lua-resty-hoedown.git",
---     branch = "v0.9"
+--     branch = "v0.9-2"
 -- }
 description = {
     summary = "LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C",
